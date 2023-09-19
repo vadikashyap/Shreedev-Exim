@@ -2,12 +2,9 @@
     padding: 0 50px;
 }
 
-.blog {
-
-}
-
-.title {
-    text-align: center;
+.title{
+    text-align: start ;
+    font-size: 54px;
 }
 
 .banner-image {
@@ -21,6 +18,9 @@
 
 h3.custom-block {
     text-align: center;
+    padding: 30px 0 0;
+}
+h4.custom-block {
     padding: 30px 0 0;
 }
 
@@ -42,7 +42,7 @@ ul.custom-block {
     display: grid;
     grid-template-columns: repeat(2, 48%);
     grid-column-gap: 4%;
-    padding: 20px;
+    padding: 30px 0 20px;
 }
 
 .two-grid-wrapper > .full-image {

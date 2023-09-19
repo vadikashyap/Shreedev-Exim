@@ -676,8 +676,8 @@ function createHTMLFromJSON(jsonData, container) {
             blogDiv.className = "blog";
             // Display title
             const titleElement = document.createElement("h1");
+            titleElement.classList.add("fs-1","text-capitalize");
             titleElement.textContent = blog.title;
-            titleElement.className = "title";
             blogDiv.appendChild(titleElement);
             if (blog.bannerImage) {
                 const bannerImageElement = document.createElement("img");

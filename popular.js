@@ -35,52 +35,41 @@ const productJson = {
     ]
 };
 
-
-function createHTMLFromJSON(data, container) {
-    productJson.product.forEach(product => {
-        const divCol = document.createElement("div");
-        divCol.classList.add("col-12", "col-md-6", "col-lg-4");
-
-        const divHoverbox = document.createElement("div");
-        divHoverbox.classList.add("hoverbox-6", "border-radius", "text-end");
-
-        const aImageLink = document.createElement("a");
-        aImageLink.href = `blog.html?param=${product.id}`;
-
-        const imgProductImage = document.createElement("img");
-        imgProductImage.src = product.bannerImage;
-        imgProductImage.alt = "";
-
-        aImageLink.appendChild(imgProductImage);
-        divHoverbox.appendChild(aImageLink);
-
-        const divTextInfo = document.createElement("div");
-        divTextInfo.classList.add("mt-3");
-
-        const h5Title = document.createElement("h5");
-        h5Title.classList.add("fw-medium");
-
-        const aTitleLink = document.createElement("a");
-        aTitleLink.classList.add("text-link-1");
-        aTitleLink.href = "#";
-        aTitleLink.textContent = product.title;
-
-        h5Title.appendChild(aTitleLink);
-
-        const pDescription = document.createElement("p");
-        pDescription.textContent = product.p;
-
-        divTextInfo.appendChild(h5Title);
-        divTextInfo.appendChild(pDescription);
-
-        divCol.appendChild(divHoverbox);
-        divCol.appendChild(divTextInfo);
-
-        productContainer.appendChild(divCol);
-    });
+// Function to generate HTML for a product
+function generateProductHTML(product) {
+    return `
+                <div class="d-flex align-items-center mb-3">
+                    <a href="blog.html?param=${product.id}">
+                        <img src="${product.bannerImage}" style="width:50px" alt="${product.title}" />
+                    </a>
+                    <div class="ps-3">
+                        <h6 class="fw-normal mb-0">
+                            <a class="text-link-1" href="blog.html?param=${product.id}">${product.title}</a>
+                        </h6>
+                    </div>
+                </div>
+            `;
 }
 
-const productContainer = document.getElementById('product-container');
+// Function to select three random products
+function selectRandomProducts(data, count) {
+    const randomProducts = [];
+    const productArray = data.product;
+    while (randomProducts.length < count) {
+        const randomIndex = Math.floor(Math.random() * productArray.length);
+        const randomProduct = productArray[randomIndex];
+        if (!randomProducts.includes(randomProduct)) {
+            randomProducts.push(randomProduct);
+        }
+    }
 
-// Call the createHTMLFromJSON function to create and insert the HTML from the JSON data
-createHTMLFromJSON(productJson, productContainer);
+    return randomProducts;
+}
+
+// Generate and display three random products
+const randomProducts = selectRandomProducts(productJson, 3);
+const randomProductsContainer = document.getElementById("popular-product");
+randomProducts.forEach(product => {
+    const productHTML = generateProductHTML(product);
+    randomProductsContainer.innerHTML += productHTML;
+});
