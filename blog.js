@@ -355,7 +355,7 @@ const jsonData = {
         {
             "id": "moth-beans",
             "title": "Moth Beans",
-            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "bannerImage": "https://i0.wp.com/rationwalla.com/wp-content/uploads/2021/05/Moth-Beans-2.jpg?fit=1280%2C1134&ssl=1",
             "block": [
                 {
                     "type": "p",
@@ -370,7 +370,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                    "value": "https://nishamadhulika.com/imgpst/featured/moth-beans.jpg",
                 },
                 {
                     "type": "h4",
@@ -421,7 +421,7 @@ const jsonData = {
         {
             "id": "chickpeas-desi",
             "title": "Chickpeas Desi",
-            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "bannerImage": "https://img.livestrong.com/630x/clsd/getty/f8ba80d2e86b4b8da69b201ea9cf0c35.jpg?type=webp",
             "block": [
                 {
                     "type": "p",
@@ -490,7 +490,7 @@ const jsonData = {
         {
             "id": "green-pearl-millet",
             "title": "Green Pearl Millet ( Bajra )",
-            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "bannerImage": "https://cdn.shopify.com/s/files/1/0405/8215/2352/files/BAJRA_480x480.jpg?v=1658378508",
             "block": [
                 {
                     "type": "p",
@@ -498,7 +498,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                    "value": "https://images.herzindagi.info/image/2022/Dec/bajra-recipes-for-breakfast-weight-loss.jpg",
                 },
                 {
                     "type": "h4",
@@ -601,7 +601,610 @@ const jsonData = {
                         "Heart Health: Its fiber content may help reduce cholesterol levels, lowering the risk of cardiovascular diseases. Antioxidants in sorghum combat free radicals, further supporting heart health.",
                         "Steady Energy: Sorghum's carbohydrates provide a slow, sustained release of energy, making it a suitable choice for maintaining energy levels throughout the day.",
                         "Drought Resistance: Sorghum's resilience in challenging environmental conditions, such as drought, highlights its importance as a food source, particularly in regions with agricultural difficulties.",
-                         ]
+                    ]
+                },
+
+            ]
+        },
+        {
+            "id": "peanuts",
+            "title": "Peanuts",
+            "bannerImage": "https://hips.hearstapps.com/hmg-prod/images/peanuts-royalty-free-image-616003590-1532549624.jpg?crop=1.00xw:0.824xh;0,0.0391xh&resize=1200:*",
+            "block": [
+                {
+                    "type": "p",
+                    "value": "Peanuts, scientifically known as Arachis hypogaea, are an incredibly versatile and nutritious legume enjoyed worldwide. These small, oval-shaped wonders pack a punch of flavor with their nutty and slightly sweet taste. Rich in protein, healthy fats, vitamins, minerals, and antioxidants, peanuts offer a wide range of health benefits. They can be consumed in various forms, from the satisfying crunch of roasted peanuts to the creamy delight of peanut butter. Peanuts find their way into countless culinary creations, from savory peanut sauces in Asian cuisine to classic peanut butter and jelly sandwiches. However, it's important to remember that peanut allergies are common and potentially severe, necessitating caution for those affected. Despite this, peanuts remain a beloved and sustainable crop, with their ability to enrich soil and require relatively less water compared to some other crops. Overall, peanuts are not just a popular snack but a versatile ingredient that adds flavor, texture, and nutrition to a wide array of dishes."
+                },
+                {
+                    "type": "fullImage",
+                    "value": "https://sweetsimplevegan.com/wp-content/uploads/2022/02/horizontal_boiled_peanuts_nilagang_mani_sweet_simple_vegan_5.jpg",
+                },
+                {
+                    "type": "h4",
+                    "value": "Usage"
+                },
+                {
+                    "type": "p",
+                    "value": "Peanuts are a quintessential snack and a versatile culinary ingredient. Whether you're enjoying a handful of roasted peanuts at a ballgame or spreading creamy peanut butter on your morning toast, these small legumes are a beloved part of our diets. The rich, nutty flavor and satisfying crunch of peanuts make them a favorite among snack enthusiasts. Their culinary uses are equally impressive, finding their way into savory dishes like Thai peanut satay and African peanut stew, as well as sweet treats like peanut butter cookies and peanut brittle. However, it's crucial to be mindful of peanut allergies, which can have severe consequences for some individuals. Nonetheless, peanuts remain an enduring staple in our kitchens, offering flavor, texture, and nutritional benefits in various forms and dishes.",
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Snacking: Roasted and salted peanuts are a popular snack. They provide a satisfying crunch and nutty flavor that many people enjoy.Snacking: Roasted and salted peanuts are a popular snack. They provide a satisfying crunch and nutty flavor that many people enjoy.",
+                        "Peanut Butter: Peanuts are ground into a creamy or crunchy peanut butter, which is a staple in many households. Peanut butter is used as a spread on sandwiches, toast, and crackers, and it's a key ingredient in peanut butter cookies and other baked goods.",
+                        "Peanut Sauces: Peanut sauces are commonly used in Asian cuisine, particularly in dishes like Thai peanut satay and Indonesian gado-gado. These sauces combine peanuts with various ingredients like soy sauce, coconut milk, and spices for a rich and savory flavor.",
+                        "Baking: Crushed peanuts or peanut butter chips are often used in baking, adding a nutty and slightly sweet flavor to cookies, brownies, and cakes.",
+                        "Salads: Peanuts can be sprinkled over salads to provide a crunchy texture and nutty taste. They are often used in Thai and Chinese salads for added flavor and protein.",
+                        "Stir-Fries: Crushed or chopped peanuts are used as a topping in stir-fried dishes, adding both texture and flavor.",
+                        "Peanut Brittle: Peanut brittle is a sweet and crunchy candy made by heating sugar and peanuts until they caramelize. It's a popular treat, especially during the holiday season.",
+                        "Trail Mix: Peanuts are a common ingredient in trail mix, providing protein and a satisfying crunch alongside dried fruits, seeds, and other nuts.",
+                        "African Dishes: In West African cuisine, peanuts are a central ingredient in dishes like groundnut stew, which combines peanuts with vegetables and often meat or fish.",
+                        "Peanut Oil: Peanut oil, extracted from peanuts, is used in cooking and frying due to its high smoke point and mild flavor. It's a common choice for deep-frying.",
+                        "Peanut Noodles: Peanut sauce is a key component in dishes like cold peanut noodles, often served in Asian cuisine. The sauce is made from peanut butter, soy sauce, and other flavorings.",
+                        "Smoothies: Peanut butter or crushed peanuts can be added to smoothies for a creamy texture and a dose of protein.",
+                        "Desserts: Peanuts are used as toppings for ice cream and incorporated into various dessert recipes, such as peanut butter pie and peanut butter fudge.",
+                        "Peanut Milk: Similar to almond or soy milk, peanut milk is a dairy-free alternative made by blending peanuts with water. It can be used in coffee, cereal, and smoothies.",
+                    ]
+                },
+                {
+                    "type": "h4",
+                    "value": "Health Benefits"
+                },
+                {
+                    "type": "p",
+                    "value": "Peanuts offer a plethora of health benefits, making them a nutritious addition to your diet. First and foremost, they are an excellent source of plant-based protein, making them a valuable choice for vegetarians and vegans. Additionally, peanuts are packed with healthy monounsaturated and polyunsaturated fats, including oleic acid, which can support heart health by reducing bad cholesterol levels.\n" +
+                        "\n" +
+                        "These legumes are rich in essential vitamins such as vitamin E, a powerful antioxidant that helps protect cells from damage, and several B vitamins that play crucial roles in metabolism and energy production. The minerals found in peanuts, like magnesium, phosphorus, and potassium, contribute to bone health and overall well-being.\n" +
+                        "\n" +
+                        "Peanuts also contain dietary fiber, which aids in digestion and can help maintain healthy blood sugar levels. Moreover, the presence of antioxidants, such as resveratrol, has been linked to potential anti-inflammatory effects and protection against chronic diseases.\n" +
+                        "\n" +
+                        "However, it's important to consume peanuts in moderation as they are calorie-dense. Roasted or unsalted peanuts make for a healthier choice than those with added salt or sugar. All in all, when enjoyed as part of a balanced diet, peanuts can provide an array of health benefits that contribute to your overall well-being.",
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Rich in Nutrients: Peanuts are packed with essential nutrients, including protein, healthy fats, dietary fiber, vitamins (especially vitamin E and some B vitamins), and minerals like magnesium, phosphorus, and potassium.",
+                        "Heart Health: The monounsaturated and polyunsaturated fats in peanuts, particularly oleic acid, can help reduce LDL cholesterol levels, which is beneficial for heart health. The presence of arginine, an amino acid, may also contribute to improved blood vessel function.",
+                        "Antioxidants: Peanuts contain antioxidants like resveratrol, which have been associated with anti-inflammatory effects and a reduced risk of chronic diseases, including heart disease and cancer.",
+                        "Weight Management: Despite being calorie-dense, peanuts can help with weight management due to their satiating protein and fiber content, which can reduce overall calorie intake by promoting a feeling of fullness.",
+                        "Blood Sugar Control: The fiber and healthy fats in peanuts may help stabilize blood sugar levels and reduce the risk of type 2 diabetes.",
+                        "Digestive Health: The dietary fiber in peanuts supports healthy digestion and can prevent constipation.",
+                        "Nutrient Absorption: The healthy fats in peanuts can aid in the absorption of fat-soluble vitamins, such as vitamin E.",
+                        "Bone Health: Peanuts are a good source of minerals like magnesium and phosphorus, which are essential for maintaining strong and healthy bones.",
+                        "Energy Production: B vitamins in peanuts play a crucial role in energy metabolism and can help combat fatigue.",
+                        "Skin Health: The vitamin E content in peanuts contributes to healthy skin by protecting it from oxidative damage.",
+                        "Reduced Risk of Gallstones: Some studies suggest that regular consumption of peanuts may reduce the risk of gallstones."
+                    ]
+                },
+
+            ]
+        },
+        {
+            "id": "sesame-seeds",
+            "title": "Sesame Seeds",
+            "bannerImage": "https://www.prideofindia.co/cdn/shop/products/shutterstock_164078822_2000x.jpg?v=1571500292",
+            "block": [
+                {
+                    "type": "p",
+                    "value": "Sesame seeds are tiny, nutrient-packed seeds that have been cherished for their culinary and nutritional value for thousands of years. These small, flat seeds come from the sesame plant (Sesamum indicum) and have a unique nutty flavor and delicate crunch. Sesame seeds are versatile and used in various culinary applications around the world. They are commonly sprinkled on top of bread, rolls, and bagels, adding a delightful texture and flavor. Sesame seeds are also a key ingredient in tahini, a creamy paste used in Middle Eastern dishes like hummus and as a condiment. In Asian cuisine, toasted sesame seeds are often used to garnish dishes and provide both flavor and visual appeal. Apart from their culinary uses, sesame seeds are rich in essential nutrients, including healthy fats, protein, dietary fiber, vitamins (especially vitamin E and B vitamins), and minerals like calcium, magnesium, and iron. These seeds offer potential health benefits, such as supporting heart health, bone health, and skin health. Sesame seeds, in various forms, are an integral part of global cuisine and contribute to both the taste and nutritional value of many dishes."
+                },
+                {
+                    "type": "fullImage",
+                    "value": "https://cdn.britannica.com/66/212766-050-FF1A49A0/sesame-seeds-wooden-spoon.jpg",
+                },
+                {
+                    "type": "h4",
+                    "value": "Usage"
+                },
+                {
+                    "type": "p",
+                    "value": "\n" +
+                        "Sesame seeds are a culinary treasure known for their ability to elevate the flavor and texture of a wide range of dishes. These tiny, nutty seeds have found their way into various cuisines across the globe. One common use is as a delightful topping for baked goods such as bread, bagels, and pastries, imparting a subtle crunch and a distinctive flavor. In Middle Eastern and Mediterranean cuisine, sesame seeds take center stage as the key ingredient in tahini, a creamy paste that serves as the foundation for beloved dishes like hummus and falafel.\n" +
+                        "\n" +
+                        "In Asian cooking, toasted sesame seeds are generously sprinkled on dishes to provide not only a pleasing crunch but also a rich, nutty taste. Whether enhancing the visual appeal of sushi rolls or adding depth to the flavors of stir-fries and noodle dishes, sesame seeds are a versatile garnish. They also play a vital role in the production of sesame oil, a flavorful cooking oil used in a multitude of Asian recipes.\n" +
+                        "\n" +
+                        "Sesame seeds find their place in salads, adding an extra layer of flavor and texture to leafy greens and vegetables. Additionally, they serve as a key component in a variety of sweets and snacks, from sesame candy and halva to energy bars and sesame snaps. Sesame seeds are also essential in vegetarian and vegan cuisine, contributing much-needed protein and healthy fats. With their rich history and diverse applications, sesame seeds continue to be a cherished ingredient, enhancing the culinary experiences of people around the world.",
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Baking: Sesame seeds are often sprinkled on top of bread, rolls, and pastries before baking, adding a pleasing crunch and a mild, nutty flavor to baked goods.",
+                        "Tahini: Sesame seeds are a primary ingredient in tahini, a creamy paste used in Middle Eastern cuisine. Tahini is a key component in dishes like hummus, baba ghanoush, and tahini sauce for falafel.",
+                        "Asian Cuisine: Toasted sesame seeds are a common garnish in Asian cooking. They are generously sprinkled on dishes like sushi, noodle dishes, stir-fries, and salads for both flavor and texture.",
+                        "Salad Toppings: Sesame seeds are used to enhance the flavor and texture of salads. They add a delightful crunch and a nutty taste when sprinkled over leafy greens and vegetables.",
+                        "Sesame Oil: Sesame oil, derived from sesame seeds, is a flavorful cooking oil used in many Asian cuisines. It is known for its rich, nutty taste and is used for sautéing, stir-frying, and as a finishing oil for added flavor.",
+                        "Snacks and Sweets: Sesame seeds are used in a variety of snacks and sweets, such as sesame snaps, energy bars, halva, and sesame candy, offering a combination of nutrition and flavor.",
+                        "Sesame Chicken: In Chinese cuisine, sesame seeds are often used to coat chicken in dishes like sesame chicken, providing a crispy texture and a distinct nutty flavor.",
+                        "Breadsticks and Crackers: Sesame seeds are pressed onto breadsticks, crackers, and pretzels, enhancing both their flavor and appearance.",
+                        "Dipping Sauces: Ground sesame seeds are used to prepare dipping sauces like goma dare in Japanese cuisine, which accompanies dishes like shabu-shabu and hot pot.",
+                        "Smoothies: Ground sesame seeds or sesame paste can be added to smoothies for a creamy texture and a nutty flavor.",
+                        "Vegetarian and Vegan Cuisine: Sesame seeds and tahini are staples in vegetarian and vegan diets, providing essential nutrients such as protein and healthy fats.",
+                        "Sesame Snacks: Sesame seeds are roasted and seasoned to create crunchy snacks enjoyed as a standalone treat.",
+                    ]
+                },
+                {
+                    "type": "h4",
+                    "value": "Health Benefits"
+                },
+                {
+                    "type": "p",
+                    "value": "Sesame seeds offer a wealth of health benefits, making them a nutritious addition to your diet. Despite their small size, these seeds are packed with essential nutrients and compounds that promote well-being. First and foremost, sesame seeds are a rich source of healthy fats, particularly monounsaturated and polyunsaturated fats, which have been linked to heart health by helping reduce LDL cholesterol levels.\n" +
+                        "\n" +
+                        "Sesame seeds are also a good source of protein, making them valuable for vegetarians and vegans looking to meet their protein needs. Additionally, they provide a range of vitamins and minerals, including calcium, magnesium, phosphorus, and iron, all of which contribute to bone health and overall vitality.\n" +
+                        "\n" +
+                        "Furthermore, sesame seeds are rich in antioxidants, including sesamin and sesamol, which can help combat oxidative stress, inflammation, and the risk of chronic diseases. The seeds' high fiber content supports digestive health and helps regulate blood sugar levels, potentially reducing the risk of type 2 diabetes.\n" +
+                        "\n" +
+                        "Sesame seeds also contain lignans, such as sesamin and sesamol, which may have estrogen-like effects in the body and could contribute to hormonal balance. Additionally, they have been associated with improved skin health due to their vitamin E content.\n" +
+                        "\n" +
+                        "Incorporating sesame seeds into your diet can be as simple as sprinkling them on salads, yogurt, or oatmeal or using tahini (sesame paste) in sauces and dressings. Whether as a topping, ingredient, or condiment, sesame seeds can enhance both the flavor and nutritional value of your meals, contributing to your overall health and well-being.",
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Heart Health: Sesame seeds are rich in monounsaturated and polyunsaturated fats, particularly oleic acid and linoleic acid. These healthy fats have been associated with a reduced risk of heart disease by helping to lower LDL (bad) cholesterol levels.",
+                        "Bone Health: Sesame seeds are an excellent source of minerals like calcium, magnesium, and phosphorus, all of which are essential for maintaining strong and healthy bones. Consuming sesame seeds regularly may help prevent osteoporosis and bone-related issues.",
+                        "Antioxidant Properties: Sesame seeds contain antioxidants, including sesamin and sesamol, which can help combat oxidative stress, reduce inflammation, and protect cells from damage caused by free radicals.",
+                        "Digestive Health: The dietary fiber in sesame seeds promotes healthy digestion by aiding regular bowel movements and preventing constipation.",
+                        "Blood Sugar Control: The combination of fiber, healthy fats, and protein in sesame seeds can help stabilize blood sugar levels and reduce the risk of developing type 2 diabetes.",
+                        "Skin Health: Sesame seeds are a good source of vitamin E, an antioxidant that plays a role in skin health by protecting it from UV damage and maintaining its youthful appearance.",
+                        "Hormonal Balance: Sesame seeds contain lignans, including sesamin and sesamol, which have estrogen-like properties and may help balance hormones, particularly in postmenopausal women.",
+                        "Weight Management: The protein and fiber in sesame seeds can promote a feeling of fullness and satiety, potentially reducing overall calorie intake and aiding in weight management.",
+                        "Nutrient Absorption: Sesame seeds can enhance the absorption of certain fat-soluble vitamins and minerals due to their healthy fat content.",
+                        "Reduced Risk of Hypertension: The magnesium in sesame seeds may help lower blood pressure, contributing to a reduced risk of hypertension and related cardiovascular issues.",
+                    ]
+                },
+
+            ]
+        },
+        {
+            "id": "black-mustard",
+            "title": "Black Mustard",
+            "bannerImage": "https://www.anthonythespicemaker.com/wp-content/uploads/2014/06/Mustard-Seeds-2.1.jpg",
+            "block": [
+                {
+                    "type": "p",
+                    "value": "Black mustard seeds are small, round seeds that come from the black mustard plant (Brassica nigra). These seeds have a robust and pungent flavor, with a sharp, spicy kick that sets them apart from their milder yellow or white mustard seed counterparts. Black mustard seeds are commonly used as a spice in many cuisines worldwide, particularly in Indian, Mediterranean, and Middle Eastern cooking. They are a key ingredient in making traditional mustard condiments, such as Dijon mustard and spicy brown mustard. In Indian cuisine, they play a vital role in tempering and seasoning dishes, adding depth and heat to curries, pickles, and chutneys. Beyond their culinary uses, black mustard seeds have been explored for their potential health benefits, which may include antioxidant properties and anti-inflammatory effects. Overall, black mustard seeds are a bold and distinctive spice that adds both flavor and character to a variety of culinary creations."
+                },
+                {
+                    "type": "fullImage",
+                    "value": "https://www.gomothers.in/wp-content/uploads/2020/05/black-mustard-seeds.jpg",
+                },
+                {
+                    "type": "h4",
+                    "value": "Usage"
+                },
+                {
+                    "type": "p",
+                    "value": "Black mustard seeds, known for their bold and spicy flavor, find diverse and creative uses in the culinary world. These tiny seeds are a staple in many cuisines, contributing depth and heat to a variety of dishes.\n" +
+                        "\n" +
+                        "In Indian cuisine, they play a crucial role in tempering and seasoning, adding a distinctive sizzle and aroma when heated in hot oil at the start of cooking. This initial tempering step is essential for countless curries, dals (lentil dishes), and vegetable preparations, infusing them with a rich, aromatic heat.\n" +
+                        "\n" +
+                        "Mustard seeds are also the foundation for classic mustard condiments. Dijon mustard and spicy brown mustard, for example, rely on black mustard seeds for their signature pungency. These condiments are commonly used as spreads, dips, and marinades, enhancing the flavor of sandwiches, burgers, and grilled meats.\n" +
+                        "\n" +
+                        "Beyond these traditional uses, black mustard seeds are versatile in the kitchen. They can be incorporated into pickles and chutneys, contributing a spicy kick to preserved vegetables and condiments. They feature in spice blends, providing complexity to dishes like garam masala and curry powder. Crushed seeds make their way into rubs and marinades for meats and vegetables, delivering a bold and zesty flavor.\n" +
+                        "\n" +
+                        "Black mustard seeds also find a place in baking, adding a unique and slightly spicy note to bread, pretzels, and other baked goods. Creative chefs and home cooks continue to experiment, using these seeds in sauces, salad dressings, infused oils, and even cocktails to explore their full culinary potential.\n" +
+                        "\n" +
+                        "In summary, black mustard seeds are a versatile and dynamic spice that adds not only heat but also character to a wide array of dishes, whether used traditionally in Indian cooking, as a key condiment ingredient, or in innovative and experimental culinary creations.",
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Tempering: In Indian cuisine, black mustard seeds are often used in tempering. Heat oil, add mustard seeds, and wait for them to pop and release their aroma before incorporating them into curries, dals, and vegetable dishes. This process adds a distinct, spicy flavor to the dishes.",
+                        "Mustard Condiments: Black mustard seeds are a key ingredient in making traditional mustard condiments, including Dijon mustard and spicy brown mustard. These condiments are used as spreads, dips, and marinades for sandwiches, hot dogs, and grilled meats.",
+                        "Pickling: Black mustard seeds are used to enhance the flavor and preservation of pickled vegetables, such as cucumbers, onions, and carrots. They provide a zesty and spicy kick to pickles.",
+                        "Chutneys: Incorporate black mustard seeds into chutneys and relishes to add a spicy and aromatic element. These condiments pair well with various dishes, from grilled meats to vegetarian meals.",
+                        "Spice Blends: Ground black mustard seeds are included in spice blends like curry powder and garam masala, where they contribute to the overall flavor profile, adding depth and heat.",
+                        "Baking: Some recipes, particularly in Eastern European and Mediterranean cuisines, call for black mustard seeds to add a unique flavor to bread, pretzels, and other baked goods.",
+                        "Marinades and Rubs: Crushed black mustard seeds can be used in marinades and spice rubs for meats and vegetables, infusing them with a bold and spicy flavor.",
+                        "Salad Dressings: Ground black mustard seeds can be incorporated into salad dressings, providing a zesty and spicy kick to your salads.",
+                        "Infused Oils and Vinegars: Steep black mustard seeds in oils or vinegars to create infused liquids that can be used for cooking, as condiments, or as salad dressings.",
+                        "Experimental Cuisine: Creative chefs often explore innovative uses for black mustard seeds, incorporating them into sauces, cocktails, and even desserts to add a unique and bold flavor.",
+
+                    ]
+                },
+                {
+                    "type": "h4",
+                    "value": "Health Benefits"
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Anti-Inflammatory Properties: Mustard seeds contain compounds like glucosinolates and isothiocyanates, known for their anti-inflammatory effects. These compounds may help reduce inflammation in the body, contributing to overall well-being and potentially benefiting individuals with inflammatory conditions.",
+                        "Digestive Aid: Mustard seeds are renowned for their digestive properties. When consumed, they can stimulate the production of saliva and gastric juices, which aids in digestion, relieves indigestion, and may alleviate gas and bloating.",
+                        "Antioxidant Defense: These seeds are rich in antioxidants, which help combat oxidative stress and free radicals. Regular consumption may reduce the risk of chronic diseases and support overall health.",
+                        "Heart Health: Mustard seeds contain omega-3 fatty acids, which have been linked to heart health. They may help lower LDL (bad) cholesterol levels, reducing the risk of heart disease.",
+                        "Bone Strength: Mustard seeds provide essential minerals like calcium, magnesium, and phosphorus, all of which are crucial for maintaining strong and healthy bones.",
+                        "Respiratory Relief: The heat produced by mustard seeds, such as in mustard plasters or poultices, has been traditionally used to alleviate respiratory congestion, clear sinuses, and promote easier breathing.",
+                        "Skin Benefits: Topical applications of mustard seed paste have been employed to address skin issues. The anti-inflammatory and antioxidant properties of mustard seeds may help reduce redness, swelling, and irritation when applied as a poultice.",
+                        "Potential Antibacterial Properties: Some studies suggest that mustard seeds may possess antibacterial properties, potentially aiding in the fight against certain bacterial infections.",
+                    ]
+                },
+
+            ]
+        },
+        {
+            "id": "yellow-mustard",
+            "title": "Yellow Mustard",
+            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "block": [
+                {
+                    "type": "p",
+                    "value": "Yellow mustard, often referred to simply as \"mustard,\" is a popular condiment known for its tangy and slightly spicy flavor. It is made from yellow or white mustard seeds (Brassica hirta/Sinapis alba), vinegar, water, and various seasonings. This versatile condiment is a staple on tables and in kitchens around the world. It is commonly used as a topping for hot dogs, hamburgers, sandwiches, and pretzels. Yellow mustard also plays a role in salad dressings, marinades, and as an ingredient in various recipes, adding a zesty and tangy kick to dishes. Its mild heat and distinct flavor profile make it a beloved condiment for both everyday meals and special occasions. Beyond its culinary uses, yellow mustard seeds are used to make traditional mustard plasters, a home remedy used for respiratory relief, highlighting the historical significance and versatility of this condiment.",
+                },
+                {
+                    "type": "fullImage",
+                    "value": "https://www.gomothers.in/wp-content/uploads/2020/05/yellow-mustard-seeds.jpg",
+                },
+                {
+                    "type": "h4",
+                    "value": "Usage"
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Classic Condiment: Yellow mustard is a quintessential topping for hot dogs, hamburgers, and sandwiches. Its tangy kick enhances the savory flavors of grilled meats and other ingredients.",
+                        "Pretzel Partner: Soft pretzels often share the stage with yellow mustard. The combination of the pretzel's saltiness and the mustard's tang creates a harmonious and satisfying flavor profile.",
+                        "Salad Dressing: Yellow mustard serves as an essential ingredient in salad dressings, contributing both tanginess and creaminess to vinaigrettes and creamy dressings alike.",
+                        "Flavorful Marinades: It is a valuable addition to marinades for meats, poultry, and seafood, infusing them with a zesty and slightly spicy character.",
+                        "Barbecue Brilliance: In homemade barbecue sauces, yellow mustard plays a crucial role. It adds acidity and tang to balance the sweetness and smokiness of barbecue dishes.",
+                        "Dip and Spread: From deviled egg fillings to potato salad dressings, yellow mustard enhances the flavor and creaminess of dips, spreads, and salad dressings.",
+                        "Versatile Sauce Base: Yellow mustard can form the foundation for various sauces, including honey mustard and tangy glazes for baked dishes like ham.",
+                        "Comfort Food Companion: Grilled cheese sandwiches and sausages, such as bratwurst, benefit from a dollop of yellow mustard, elevating their taste and providing a hint of heat.",
+                        "Dipping Delight: It is a favored dipping sauce for chicken tenders, nuggets, and fried foods, adding a tangy and savory contrast to the crispy textures.",
+                        "Culinary Creativity: Some inventive chefs explore new ways to incorporate yellow mustard into both savory and sweet dishes, exploring its unique flavor profile.",
+                    ]
+                },
+                {
+                    "type": "h4",
+                    "value": "Health Benefits"
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Low in Calories: Yellow mustard is a low-calorie condiment, making it a good choice for those looking to reduce calorie intake while adding flavor to their meals.",
+                        "Low in Fat: It is also low in fat, particularly saturated fat, which can be beneficial for heart health when used in moderation.",
+                        "Vinegar Content: Yellow mustard contains vinegar, which may aid in digestion and help stabilize blood sugar levels. Vinegar has been linked to potential weight management benefits and improved insulin sensitivity.",
+                        "Spices and Phytonutrients: The spices and seasonings used in yellow mustard, such as turmeric, paprika, and garlic, contain various phytonutrients and antioxidants. These compounds may have anti-inflammatory and antioxidant properties.",
+                        "Anti-Inflammatory Potential: Some of the spices used in yellow mustard, like turmeric, contain curcumin, a compound known for its anti-inflammatory properties. While the amount of curcumin in mustard is small, it can still contribute to overall dietary anti-inflammatory effects.",
+                        "Flavor Enhancement: Yellow mustard's distinct tangy flavor can make healthy foods, like vegetables and whole grains, more enjoyable. When used to enhance the taste of these foods, it can encourage healthier eating.",
+                        "Weight Management: Its low-calorie and low-fat content can be beneficial for those focusing on weight management, as it allows for flavor without a significant calorie or fat load.",
+
+                    ]
+                },
+
+            ]
+        },
+        {
+            "id": "castor-seeds",
+            "title": "Castor Seeds",
+            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "block": [
+                {
+                    "type": "p",
+                    "value": "Castor seeds, derived from the castor bean plant (Ricinus communis), are unique and versatile seeds with a wide range of applications. These seeds have been cultivated for centuries and are known for their various uses and properties.\n" +
+                        "\n" +
+                        "One of the most notable applications of castor seeds is the extraction of castor oil. Castor oil is a thick, pale-yellow liquid with a distinct, nutty aroma. It has been employed for its medicinal, industrial, and cosmetic purposes. Medicinally, castor oil has been used as a laxative and for its potential anti-inflammatory and antimicrobial properties. It has also found a place in traditional medicine and skincare routines for its skin-soothing and moisturizing qualities.\n" +
+                        "\n" +
+                        "In the industrial realm, castor oil serves as a valuable ingredient in the production of various products. Its high viscosity and resistance to temperature changes make it ideal for use in lubricants, coatings, and greases. Castor oil is also used in the manufacturing of plastics, resins, and biodiesel fuel.\n" +
+                        "\n" +
+                        "Aside from its industrial and medicinal applications, castor seeds have been used traditionally in some cuisines. However, it's important to note that castor seeds contain a toxic compound called ricin, which must be carefully removed during processing to render them safe for consumption.\n" +
+                        "\n" +
+                        "In summary, castor seeds are multifaceted and have played a significant role in various industries and cultures throughout history. Whether serving as a source of castor oil for medicinal or industrial purposes or holding cultural significance, these seeds continue to offer valuable contributions to different aspects of human life and industry.",
+                },
+                {
+                    "type": "fullImage",
+                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                },
+                {
+                    "type": "h4",
+                    "value": "Usage"
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Castor Oil Production: The primary use of castor seeds is in the extraction of castor oil. Castor oil is a valuable commodity in the cosmetic, pharmaceutical, and industrial sectors. It is extracted from the seeds through a pressing and heating process. This oil is known for its moisturizing properties and is used in cosmetics, skincare products, and haircare formulations.",
+                        "Industrial Applications: Castor oil is highly prized in industrial applications due to its unique properties. It has high viscosity and is resistant to temperature fluctuations, making it suitable as a lubricant for machinery, especially in extreme conditions. It is also used in the production of various coatings, greases, hydraulic fluids, and paints.",
+                        "Biodiesel Production: Castor oil is considered a feedstock for biodiesel production. It can be converted into biodiesel through transesterification processes, providing an alternative and sustainable source of fuel.",
+                        "Pharmaceutical and Medicinal Uses: Historically, castor oil has been used as a laxative due to its mild purgative properties. It has also been explored for its potential anti-inflammatory and antimicrobial effects. Additionally, castor oil packs have been used externally for pain relief and skin conditions.",
+                        "Cosmetic and Skincare Products: Castor oil is a common ingredient in cosmetics and skincare products, such as lip balms, creams, and lotions. It is valued for its emollient and hydrating qualities.",
+                        "Haircare: Castor oil is popular in haircare products and treatments. It is believed to promote hair growth and improve hair health when applied to the scalp and hair.",
+                        "Traditional and Cultural Uses: Castor seeds and castor oil have been used traditionally in some cultures for various purposes, including rituals and ceremonies.",
+
+                    ]
+                },
+                {
+                    "type": "h4",
+                    "value": "Health Benefits"
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Laxative Effects: One of the most well-known uses of castor oil is its mild laxative effect. It is used to relieve constipation by stimulating bowel movements. However, it should be used sparingly and under medical supervision, as excessive use can lead to dehydration and electrolyte imbalances.",
+                        "Anti-Inflammatory Properties: Some believe that castor oil may have anti-inflammatory properties when applied topically. It has been used for conditions like arthritis, joint pain, and muscle soreness to reduce inflammation and alleviate discomfort.",
+                        "Skin Health: Castor oil is commonly used in skincare products due to its emollient and moisturizing properties. It may help soothe dry and irritated skin, reduce itching, and promote overall skin health.",
+                        "Antibacterial and Antifungal Effects: Castor oil contains compounds that may have antibacterial and antifungal properties. It has been used topically to treat minor skin infections and fungal conditions.",
+                        "Pain Relief: Castor oil packs, where a cloth soaked in castor oil is applied to the skin, have been used for pain relief. They are believed to help reduce pain and inflammation in areas like the abdomen, joints, and muscles.",
+                        "Hair and Scalp Health: Castor oil is often used in haircare products and as a home remedy to promote hair growth, strengthen hair, and improve scalp health.",
+                        "Anti-Aging Effects: Some skincare products use castor oil for its potential anti-aging properties, as it may help reduce the appearance of fine lines and wrinkles.",
+
+                    ]
+                },
+
+            ]
+        },
+        {
+            "id": "peanuts-oil",
+            "title": "Peanuts Oil",
+            "bannerImage": "https://media.istockphoto.com/id/964876998/photo/peanut-oil-in-glass-bottle-and-peanuts-on-wooden-table.jpg?s=2048x2048&w=is&k=20&c=qlHsq1-VrmLw0MxfiCiNNBrFCDhkvj6D01XFjQ1SSt8=",
+            "block": [
+                {
+                    "type": "p",
+                    "value": "Peanut oil, also known as groundnut oil or arachis oil, is a popular cooking oil with a mild flavor and a high smoke point, making it suitable for a wide range of culinary applications. It is extracted from the kernels of peanuts (Arachis hypogaea) and is commonly used in both Asian and Western cuisines.",
+                },
+                {
+                    "type": "fullImage",
+                    "value": "https://media.istockphoto.com/id/1408296553/photo/peanut-oil-in-a-glass-jug-and-raw-peeled-groundnut-in-a-glass-bowl-over-gray-background.jpg?s=2048x2048&w=is&k=20&c=hIiwihYQUPAc03gsTKZ7RPyUNQV20BrN1jeeDbbelUs=",
+                },
+                {
+                    "type": "h4",
+                    "value": "Usage"
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Deep Frying: Peanut oil is a popular choice for deep frying due to its high smoke point, which means it can maintain stability at high temperatures without breaking down or producing undesirable flavors or smoke. It yields crispy and golden results when frying foods like French fries, chicken, fish, and tempura.",
+                        "Stir-Frying: In Asian cuisine, peanut oil is a go-to cooking oil for stir-frying. Its mild flavor allows the natural tastes of vegetables, meats, and spices to shine through, while its high smoke point ensures quick and even cooking.",
+                        "Pan Frying: For pan-frying methods like sautéing, searing, and shallow frying, peanut oil's ability to reach high temperatures without smoking makes it an excellent choice. It helps create a golden crust on foods like pancakes, chicken cutlets, and fish fillets.",
+                        "Salad Dressings: Some varieties of peanut oil, often labeled as \"light\" or \"refined,\" are suitable for use in salad dressings and vinaigrettes. Their milder flavor allows them to blend well with various ingredients without overpowering the salad's taste.",
+                        "Marinades: Peanut oil can be used as a base for marinades, infusing meats, poultry, and seafood with flavor before grilling or roasting.",
+                        "Baking: In some baking recipes, peanut oil is used to add moisture and richness to cakes, muffins, and quick breads.",
+                        "Asian Dishes: Peanut oil is an essential ingredient in many Asian dishes, such as Thai and Chinese cuisine. It imparts a distinctive nutty flavor that complements the flavors of dishes like pad Thai, Kung Pao chicken, and satay skewers.",
+                        "Stir-Fry Sauces: Peanut oil is often used in the preparation of stir-fry sauces, enhancing the overall taste and texture of these dishes.",
+                        "Seasoned Woks and Pans: Some cooks season their woks or cast-iron pans with peanut oil to create a non-stick surface and add a hint of nutty flavor to the foods cooked in them.",
+
+                    ]
+                },
+                {
+                    "type": "h4",
+                    "value": "Health Benefits"
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Heart Health: Peanut oil is predominantly composed of monounsaturated fats, which are considered heart-healthy fats. These fats can help lower LDL (bad) cholesterol levels when substituted for saturated fats in the diet, potentially reducing the risk of heart disease.",
+                        "Antioxidant Properties: Peanut oil contains vitamin E, a powerful antioxidant. Antioxidants help combat free radicals and oxidative stress in the body, which can contribute to chronic diseases and aging.",
+                        "Skin Health: Some topical applications of peanut oil may benefit the skin. It is used in traditional remedies for conditions like dry skin and eczema due to its moisturizing properties.",
+                        "Vitamin K: Peanut oil contains vitamin K, which plays a role in blood clotting and bone health.",
+                        "Anti-Inflammatory Effects: While more research is needed, some studies suggest that the monounsaturated fats in peanut oil may have anti-inflammatory effects, potentially benefiting individuals with inflammatory conditions.",
+                        "Nutrient Absorption: Peanut oil's fat content can aid in the absorption of fat-soluble vitamins like vitamins A, D, E, and K, which are essential for various bodily functions.",
+                    ]
+                },
+
+            ]
+        },
+        {
+            "id": "black-mustard-oil",
+            "title": "Black Mustard Oil",
+            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "block": [
+                {
+                    "type": "p",
+                    "value": "Black mustard oil is an aromatic and pungent cooking oil that is derived from the seeds of the black mustard plant (Brassica nigra or Brassica juncea). It is particularly popular in Indian and South Asian cuisines, known for its distinct and robust flavor",
+                },
+                {
+                    "type": "fullImage",
+                    "value": "https://media.istockphoto.com/id/1311256168/photo/mustard-oil-in-glass-jar-with-black-mustard-seed-flower-and-mustard-cake-isolated-on-white.jpg?s=2048x2048&w=is&k=20&c=j-9Si5ZqRi4ySVZfxpl6o6CLM1qPNNI24ykscRxUP7E=",
+                },
+                {
+                    "type": "h4",
+                    "value": "Usage"
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Tempering Spices (Tadka): Black mustard oil is often heated until it smokes and used as a base for tempering spices in dishes like dals (lentil stews) and vegetable curries. This process enhances the flavor and aroma of the spices, infusing them into the oil.",
+                        "Curries and Gravies: It is a key ingredient in many traditional Indian and South Asian curries and gravies. Its robust flavor adds depth and spiciness to these dishes, making them flavorful and aromatic.",
+                        "Pickles: Black mustard oil is a preferred choice for making pickles in various cuisines. Its strong flavor helps preserve the texture and taste of pickled vegetables, lending them a unique and pungent kick.",
+                        "Marinades: It is used as a base for marinades for meats, poultry, and seafood. The oil's intense flavor infuses the ingredients, creating well-seasoned and flavorful dishes when grilled, roasted, or cooked.",
+                        "Salad Dressings: In some regional cuisines, black mustard oil is used in salad dressings, providing a spicy and tangy element to fresh salads and vegetable dishes.",
+                        "Condiments: Black mustard oil is used to prepare condiments like mustard sauces and chutneys. These condiments can be served alongside a variety of dishes or used as spreads and dips.",
+                        "Traditional Spice Blends: It is an essential component of traditional spice blends, such as Bengali panch phoron (five-spice mix) and other regional spice blends. These blends are used to season a wide range of dishes.",
+                        "Regional Specialties: Black mustard oil plays a crucial role in specific regional specialties, such as Sarson da Saag in Punjabi cuisine and Machher Jhol in Bengali cuisine.",
+                        "Flavorful Dips and Sauces: Some recipes use black mustard oil as an ingredient in dips and sauces, adding a bold and spicy flavor profile.",
+                        "Saag and Greens: In dishes like Sarson da Saag, black mustard oil is used to cook leafy greens, enhancing their taste and texture.",
+                    ]
+                },
+                {
+                    "type": "h4",
+                    "value": "Health Benefits"
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Heart Health: Black mustard oil is rich in monounsaturated and polyunsaturated fats, which can help improve heart health when used in place of saturated fats. These healthier fats may reduce the risk of heart disease by lowering LDL (bad) cholesterol levels.",
+                        "Anti-Inflammatory Properties: Some studies suggest that compounds found in black mustard oil, such as glucosinolates and allyl isothiocyanates, have potential anti-inflammatory properties. Chronic inflammation is linked to various health issues, and these compounds may help mitigate inflammation in the body.",
+                        "Antioxidant Effects: Black mustard oil contains natural antioxidants, such as vitamin E, which can help combat oxidative stress and reduce cell damage caused by free radicals.",
+                        "Digestive Health: In some traditional medicine systems, black mustard oil has been used as a digestive aid and appetite stimulant. It may help improve digestion and alleviate digestive discomfort.",
+                        "Respiratory Health: In Ayurvedic and traditional medicine, inhaling the vapors of heated black mustard oil (as part of steam inhalation) is believed to help clear nasal congestion and relieve symptoms of respiratory conditions like colds and sinusitis.",
+                        "Joint Health: Topical applications of black mustard oil as part of massage therapies are thought to help relieve muscle and joint pain, reduce inflammation, and improve mobility.",
+                        "Antimicrobial Properties: Some research suggests that black mustard oil may have antimicrobial properties, which can help combat certain bacterial and fungal infections when applied topically.",
+                    ]
+                },
+
+            ]
+        },
+        {
+            "id": "yellow-mustard-oil",
+            "title": "Yellow Mustard Oil",
+            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "block": [
+                {
+                    "type": "p",
+                    "value": "",
+                },
+                {
+                    "type": "fullImage",
+                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                },
+                {
+                    "type": "h4",
+                    "value": "Usage"
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Cooking Oil: Yellow mustard oil is used as a cooking oil in regions where it is popular. It serves as a flavorful and aromatic base for various dishes.",
+                        "Flavoring Agent: Its pungent and sharp flavor makes it an excellent flavoring agent in dishes like curries, marinades, and sauces. It adds a zesty kick to the overall taste.",
+                        "Tempering Spices: In South Asian cuisines, yellow mustard oil is often heated until it smokes and used for tempering spices in dishes like dals (lentil stews) and vegetables. This process infuses the spices with its distinctive taste.",
+                        "Pickling: Yellow mustard oil is a preferred choice for pickling vegetables, providing a tangy and spicy kick to preserved foods. It helps preserve the texture and taste of pickled ingredients.",
+                        "Marinades: It is used as a base for marinades for meats, poultry, and seafood. The oil's intense flavor infuses the ingredients, creating well-seasoned and flavorful dishes when grilled, roasted, or cooked.",
+                        "Salad Dressings: In some regional cuisines, yellow mustard oil is used in salad dressings, adding a spicy and tangy element to fresh salads and vegetable dishes.",
+                        "Medicinal and Therapeutic Uses: In traditional medicine systems like Ayurveda, yellow mustard oil is believed to have warming properties. It is used in massage therapies to soothe sore muscles and joints. Steam inhalation with heated mustard oil is also used for respiratory relief in some cultures.",
+                        "External Applications: Yellow mustard oil is applied topically to relieve minor aches, pains, and skin irritations. Some people use it as a carrier oil for essential oils in aromatherapy.",
+                        "Culinary Innovation: Chefs and home cooks often experiment with yellow mustard oil to add a bold and spicy kick to various dishes, from roasted vegetables to grilled meats.",
+                        "Allergy Considerations: Individuals with mustard allergies should avoid yellow mustard oil, as it can trigger allergic reactions.",
+
+                    ]
+                },
+                {
+                    "type": "h4",
+                    "value": "Health Benefits"
+                },
+                {
+                    "type": "p",
+                    "value": ""
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Heart Health: Yellow mustard oil is rich in monounsaturated and polyunsaturated fats, which are considered heart-healthy fats. These fats may help lower LDL (bad) cholesterol levels when used in place of saturated fats, potentially reducing the risk of heart disease.",
+                        "Anti-Inflammatory Properties: Some studies suggest that compounds found in yellow mustard oil, including allyl isothiocyanates, have anti-inflammatory properties. Chronic inflammation is linked to various health issues, and these compounds may help mitigate inflammation in the body.",
+                        "Antioxidant Effects: Yellow mustard oil contains natural antioxidants, such as vitamin E, which can help combat oxidative stress and reduce cell damage caused by free radicals.",
+                        "Digestive Health: In traditional medicine systems, yellow mustard oil has been used as a digestive aid and appetite stimulant. It may help improve digestion and alleviate digestive discomfort.",
+                        "Respiratory Health: Steam inhalation with heated yellow mustard oil is believed to help relieve nasal congestion and respiratory symptoms, making it a home remedy for colds and sinusitis in some cultures.",
+                        "Joint and Muscle Relief: Topical applications of yellow mustard oil as part of massage therapies are thought to help soothe sore muscles and joints, reduce inflammation, and improve mobility.",
+                        "Antimicrobial Properties: Some research suggests that yellow mustard oil may have antimicrobial properties, which can help combat certain bacterial and fungal infections when applied topically.",
+                        "Traditional Therapies: In Ayurvedic and traditional medicine, yellow mustard oil is used in various therapies to promote overall well-being, enhance circulation, and improve skin health."
+                    ]
+                },
+
+            ]
+        },
+        {
+            "id": "castor-oil",
+            "title": "Castor Oil",
+            "bannerImage": "https://media.istockphoto.com/id/542794272/photo/castor-oil-with-beans-on-wooden-surface.jpg?s=2048x2048&w=is&k=20&c=QKnKTGvjvIa4KfSO54tGe06hNbY14_R5KMYeW8n1-KI=",
+            "block": [
+                {
+                    "type": "p",
+                    "value": "Castor oil is a versatile and natural oil derived from the seeds of the castor bean plant (Ricinus communis). Known for its wide range of applications, castor oil has been used for centuries in various cultures for its potential health, cosmetic, and industrial benefits.",
+                },
+                {
+                    "type": "fullImage",
+                    "value": "https://media.istockphoto.com/id/1167087437/photo/castor-oil.jpg?s=2048x2048&w=is&k=20&c=jjk2nYrXdffd7KGyg3V-Q3RawLXk14mV6PVZ0wdWkxY=",
+                },
+                {
+                    "type": "h4",
+                    "value": "Usage"
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Versatile and Natural: Castor oil is prized for its versatility and natural properties. It is composed primarily of ricinoleic acid, a unique fatty acid known for its potential therapeutic qualities.",
+                        "Laxative: One of the most well-known uses of castor oil is as a mild laxative. It is used to relieve constipation by promoting bowel movements. However, it should be used with caution and under medical guidance.",
+                        "Cosmetic and Skincare: Castor oil is a common ingredient in cosmetics and skincare products. It is used for its emollient properties, making it effective in moisturizing and softening the skin, as well as for promoting healthy hair and scalp.",
+                        "Anti-Inflammatory: Some studies suggest that castor oil may possess anti-inflammatory properties when applied topically, which can help alleviate skin irritation and reduce inflammation in joints and muscles.",
+                        "Wound Healing: Castor oil has been used historically in traditional medicine for wound healing. It may help cleanse wounds and promote tissue repair.",
+                        "Hair and Scalp Health: Castor oil is often used in haircare products and as a home remedy to stimulate hair growth, strengthen hair, and improve scalp health.",
+                        "Industrial Uses: Castor oil finds application in various industrial sectors, including the manufacturing of soaps, lubricants, and biodiesel.",
+                        "Potential Health Benefits: Some traditional medicine systems use castor oil for its potential health benefits, including detoxification, improved liver function, and immune system support. However, scientific research on these claims is limited.",
+                        "Caution: Castor oil should be used with caution, especially for internal consumption, as excessive use can lead to adverse effects such as diarrhea and dehydration. Always consult with a healthcare professional before using castor oil for medicinal purposes.",
+                        "DIY Home Remedies: Castor oil is a common ingredient in do-it-yourself (DIY) home ",
+
+                    ]
+                },
+                {
+                    "type": "h4",
+                    "value": "Health Benefits"
+                },
+                {
+                    "type": "p",
+                    "value": ""
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Laxative Effect: Castor oil is a natural laxative and is often used to relieve occasional constipation. It works by stimulating the muscles of the intestines, promoting bowel movements. However, it should be used with caution and only occasionally, as excessive use can lead to dehydration and electrolyte imbalances.",
+                        "Anti-Inflammatory Properties: Castor oil contains ricinoleic acid, which is believed to have anti-inflammatory effects. When applied topically, it may help reduce inflammation, soothe irritated skin, and relieve muscle and joint pain.",
+                        "Wound Healing: Castor oil has been used traditionally for wound healing. It is believed to have antimicrobial properties and may help cleanse wounds and promote tissue repair.",
+                        "Anti-Fungal Properties: Some research suggests that castor oil may have anti-fungal properties and could be used to address fungal infections like athlete's foot.",
+                        "Anti-Acne Treatment: Due to its potential anti-inflammatory and antimicrobial properties, castor oil is sometimes used to reduce acne symptoms and prevent breakouts.",
+                        "Immune System Support: Castor oil packs, when applied to the abdomen, are believed to stimulate the lymphatic system and support immune function. This is a traditional remedy and not backed by extensive scientific research.",
+                        "Gastrointestinal Health: In addition to its laxative properties, castor oil may have potential benefits for digestive health. Some people use it to support regular bowel movements and alleviate digestive discomfort.",
+                        "Pain Relief: Topical applications of castor oil as part of massage therapies are believed to help relieve muscle and joint pain, reduce inflammation, and promote relaxation.",
+                    ]
+                },
+
+            ]
+        },
+        {
+            "id": "psyllium-husk",
+            "title": "Psyllium Husk",
+            "bannerImage": "https://media.istockphoto.com/id/505534573/photo/psyllium-seeds.jpg?s=2048x2048&w=is&k=20&c=TKgM-X70nWW5repDZmrq3334VKpi6nNlEbVQ98dM4Lc=",
+            "block": [
+                {
+                    "type": "p",
+                    "value": "Psyllium husk is a dietary fiber derived from the seeds of the Plantago ovata plant. It is known for its ability to promote digestive health by relieving constipation and supporting regular bowel movements. Psyllium husk is often used as a natural and gentle laxative and may help lower cholesterol levels and stabilize blood sugar. It is commonly found in dietary supplements and as an ingredient in various food products.",
+                },
+                {
+                    "type": "fullImage",
+                    "value": "https://media.istockphoto.com/id/1278458502/photo/heap-of-psyllium-husk.jpg?s=2048x2048&w=is&k=20&c=T4a5T_an50qXEPrG12ctvmjK5jFZ0coLpQyBZbljKRs=",
+                },
+                {
+                    "type": "h4",
+                    "value": "Usage"
+                },
+                {
+                    "type": "p",
+                    "value": "Psyllium husk is commonly used as a dietary supplement to support digestive health. It is taken with water to relieve constipation and promote regular bowel movements. Psyllium husk is also used for its potential to lower cholesterol levels and help manage blood sugar. It is found in various forms, including capsules, powders, and as an ingredient in foods like breakfast cereals and fiber bars.",
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Constipation Relief: Psyllium husk is widely used as a natural laxative to relieve constipation. When mixed with water, it forms a gel-like substance that softens stool and facilitates regular bowel movements.",
+                        "Promoting Regularity: Even for those without constipation, psyllium husk can be used to promote regular bowel movements and prevent occasional constipation.",
+                        "Diarrhea Management: In some cases, psyllium husk can help manage diarrhea by absorbing excess water in the intestines and forming firmer stools.",
+                        "Cholesterol Reduction: Psyllium husk is known for its potential to lower LDL (bad) cholesterol levels. When taken regularly, it can contribute to improved heart health by reducing the risk of cardiovascular disease.",
+                        "Blood Sugar Control: Some research suggests that psyllium husk may help stabilize blood sugar levels, making it beneficial for individuals with diabetes or those seeking to manage their blood sugar.",
+                        "Weight Management: Due to its high fiber content, psyllium husk can help promote a feeling of fullness and reduce appetite, potentially supporting weight management efforts.",
+                        "Gastrointestinal Health: Psyllium husk may support overall gastrointestinal health by promoting a healthy gut environment and aiding in the removal of waste and toxins from the body.",
+                        "Irritable Bowel Syndrome (IBS): Some individuals with IBS may find relief from symptoms like diarrhea or constipation by incorporating psyllium husk into their diet. It can help regulate bowel movements.",
+                        "Prebiotic Properties: Psyllium husk may serve as a prebiotic, promoting the growth of beneficial gut bacteria."
+                    ]
+                },
+                {
+                    "type": "h4",
+                    "value": "Health Benefits"
+                },
+                {
+                    "type": "p",
+                    "value": ""
+                },
+                {
+                    "type": "ul",
+                    "value": [
+                        "Digestive Health: Psyllium husk is well-known for its positive effects on digestive health. It adds bulk to the stool, making it easier to pass, which can help alleviate constipation and promote regular bowel movements. It can also be useful for managing diarrhea by absorbing excess water in the intestines.",
+                        "Cholesterol Reduction: Regular consumption of psyllium husk may help lower LDL (bad) cholesterol levels in the blood. The soluble fiber in psyllium forms a gel-like substance in the digestive tract, which can bind to cholesterol and prevent its absorption, potentially reducing the risk of heart disease.",
+                        "Blood Sugar Control: Psyllium husk has been shown to help stabilize blood sugar levels. The soluble fiber slows the absorption of glucose, which can be beneficial for individuals with diabetes or those at risk of developing the condition.",
+                        "Weight Management: Due to its high fiber content, psyllium husk can promote a feeling of fullness and reduce appetite. This may assist individuals in managing their weight by curbing overeating and supporting healthy eating habits.",
+                        "Gut Health: Psyllium husk serves as a prebiotic, promoting the growth of beneficial gut bacteria. A healthy gut microbiome is associated with improved digestion and overall well-being.",
+                        "Heart Health: Beyond cholesterol reduction, psyllium husk's positive impact on overall heart health includes lowering blood pressure and inflammation markers, contributing to a reduced risk of cardiovascular disease.",
+                        "Colon Health: Psyllium husk's bulk-forming properties can help maintain healthy colon function and reduce the risk of conditions like diverticulosis.",
+                        "Detoxification: Psyllium husk may support the body's natural detoxification processes by aiding the removal of waste and toxins from the gastrointestinal tract.",
+                        "Appetite Control: Consuming psyllium husk before meals can help control appetite and reduce calorie intake, potentially benefiting those looking to manage their weight.",
+                        "Improved Regularity: Beyond relieving constipation, psyllium husk can help establish a more regular and predictable bowel movement pattern."
+                    ]
                 },
 
             ]
@@ -676,7 +1279,7 @@ function createHTMLFromJSON(jsonData, container) {
             blogDiv.className = "blog";
             // Display title
             const titleElement = document.createElement("h1");
-            titleElement.classList.add("fs-1","text-capitalize");
+            titleElement.classList.add("fs-1", "text-capitalize");
             titleElement.textContent = blog.title;
             blogDiv.appendChild(titleElement);
             if (blog.bannerImage) {
