@@ -175,7 +175,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                    "value": "https://m.media-amazon.com/images/I/51AnWO902zL.jpg",
                 },
                 {
                     "type": "h4",
@@ -235,7 +235,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                    "value": "https://media.istockphoto.com/id/1300845305/photo/ajwain-thymol-or-carom-seeds.jpg?s=2048x2048&w=is&k=20&c=4iA7YAxQXo753gMNJcOlav4jY3b4eBgoj2yHvhJmO1M=",
                 },
                 {
                     "type": "h4",
@@ -301,7 +301,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                    "value": "https://media.istockphoto.com/id/481275428/photo/mung-beans-poured-from-the-sack.jpg?s=2048x2048&w=is&k=20&c=OTy1R1VWWvuDsgkg7o4JIhlNAdviyg1QlI28TWd_ko4=",
                 },
                 {
                     "type": "h4",
@@ -429,7 +429,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                    "value": "https://media.istockphoto.com/id/1388159718/photo/dry-chickpea-in-bowl-on-white-background.jpg?s=2048x2048&w=is&k=20&c=uQifvEevCJBkjxGhr1giisFRpLg3zIl7y_nxohiGCWQ=",
                 },
                 {
                     "type": "h4",
@@ -550,7 +550,7 @@ const jsonData = {
         {
             "id": "white-sorghum",
             "title": "White Sorghum",
-            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "bannerImage": "https://media.istockphoto.com/id/1416235250/photo/the-sorghum-seeds.jpg?s=2048x2048&w=is&k=20&c=-GQqz_mqlDTFDFTo1D2rbtGHrRBZfzUKtXvLS3gckf4=",
             "block": [
                 {
                     "type": "p",
@@ -558,7 +558,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                    "value": "https://media.istockphoto.com/id/477802961/photo/sorghum-grains-on-white-background.jpg?s=2048x2048&w=is&k=20&c=HUKaZaLQ_HmTYR8SvjZVs0s1ES8l_7VNuUNYvlzC3cI=",
                 },
                 {
                     "type": "h4",
@@ -826,7 +826,7 @@ const jsonData = {
         {
             "id": "yellow-mustard",
             "title": "Yellow Mustard",
-            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "bannerImage": "https://media.istockphoto.com/id/1514588500/photo/yellow-mustard-table-top-view-isolated-on-black-background.jpg?s=2048x2048&w=is&k=20&c=lfWZPS2cgFSXebGcfZ0ds3rJ0WU6ILEy8fNUtu8inq0=",
             "block": [
                 {
                     "type": "p",
@@ -834,7 +834,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://www.gomothers.in/wp-content/uploads/2020/05/yellow-mustard-seeds.jpg",
+                    "value": "https://media.istockphoto.com/id/1462180015/photo/yellow-mustard-seeds-isolated-on-white.jpg?s=2048x2048&w=is&k=20&c=q4VfmEsvO4EC_OTbkDJI0qIF-j_qB9cqNJc2NE4MiS0=",
                 },
                 {
                     "type": "h4",
@@ -878,7 +878,7 @@ const jsonData = {
         {
             "id": "castor-seeds",
             "title": "Castor Seeds",
-            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "bannerImage": "https://media.istockphoto.com/id/638031212/photo/castor-oil-with-dry-and-green-beans.jpg?s=2048x2048&w=is&k=20&c=s3p4FY6hMoD9f9L3RpiWK5AZi1org-tcvY-wMYBR_R8=",
             "block": [
                 {
                     "type": "p",
@@ -894,7 +894,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                    "value": "https://media.istockphoto.com/id/179357437/photo/castor-oil-seeds.jpg?s=2048x2048&w=is&k=20&c=MciLApltqNC7fZz0ai12oZ4-OeJOs-P25p-7L-9Ey2A=",
                 },
                 {
                     "type": "h4",
@@ -986,7 +986,7 @@ const jsonData = {
         {
             "id": "black-mustard-oil",
             "title": "Black Mustard Oil",
-            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "bannerImage": "https://media.istockphoto.com/id/950046684/photo/rapeseed-oil-with-seeds-and-flowers.jpg?s=2048x2048&w=is&k=20&c=-GNEhWKxDMxuEsJaLfn9HmCOLufmdnJ5b_t7Y3-ycc0=",
             "block": [
                 {
                     "type": "p",
@@ -1037,15 +1037,15 @@ const jsonData = {
         {
             "id": "yellow-mustard-oil",
             "title": "Yellow Mustard Oil",
-            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "bannerImage": "https://media.istockphoto.com/id/1464858607/photo/mustard-flowers-with-oil.jpg?s=2048x2048&w=is&k=20&c=uU3zkcQdtXGZ17zYclGZXdUwoHpNKPqxy0jPaNi3gdQ=",
             "block": [
                 {
                     "type": "p",
-                    "value": "",
+                    "value": "Yellow mustard oil is a mild vegetable oil made from yellow mustard seeds, used in South Asian and Mediterranean cuisines for cooking and dressings. It's a source of healthy fats and distinct from the condiment known as yellow mustard.",
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                    "value": "https://media.istockphoto.com/id/1467692724/photo/mustard-flowers-with-beans-and-oil.jpg?s=2048x2048&w=is&k=20&c=w-txbJI7zOzpppVfD7ax5MSCtaUrMSkSwQEwOU9RC80=",
                 },
                 {
                     "type": "h4",

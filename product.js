@@ -90,7 +90,7 @@ const productJson = {
         }, {
             "id": "yellow-mustard-oil",
             "title": "Yellow Mustard Oil",
-            "bannerImage": "https://images.pexels.com/photos/4199098/pexels-photo-4199098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "bannerImage": "https://media.istockphoto.com/id/1021505082/photo/sauce-mustard-in-bowl-on-board.jpg?s=2048x2048&w=is&k=20&c=RQou2wwinVKrYyYvLqZDA7eiYGuCnhId_qmjJFOp8ak=",
             "p": "Yellow mustard oil is a mild vegetable oil made from yellow mustard seeds, used in South Asian and Mediterranean cuisines for cooking and dressings. It's a source of healthy fats and distinct from the condiment known as yellow mustard.",
         },{
             "id": "castor-oil",
