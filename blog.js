@@ -3,7 +3,7 @@ const jsonData = {
         {
             "id": "cumin-seeds",
             "title": "Cumin Seeds",
-            "bannerImage": "https://cdn.britannica.com/59/219359-050-662D86EA/Cumin-Spice.jpg",
+            "bannerImage": "/assets/allImages/cumin-seeds.png",
             "block": [
                 {
                     "type": "p",
@@ -11,7 +11,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://specialtyproduce.com/sppics/6163-a.png",
+                    "value": "/assets/allImages/cumin-seeds-blog.png",
                 },
                 {
                     "type": "h4",
@@ -54,7 +54,7 @@ const jsonData = {
         {
             "id": "fennel-seeds",
             "title": "Fennel Seeds",
-            "bannerImage": "https://media.istockphoto.com/id/1152072821/photo/fennel-seeds-in-a-bowl-on-a-wooden-table.jpg?s=2048x2048&w=is&k=20&c=QzHWmgUR4oWI5cB0m0TgbGxMgas3VeBful9oeqNZawc=",
+            "bannerImage": "/assets/allImages/fennel-seeds.jpg",
             "block": [
                 {
                     "type": "p",
@@ -62,7 +62,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://shop.organicmandya.com/cdn/shop/products/Fennel_Seeds_2_900x900.jpg?v=1605758128",
+                    "value": "/assets/allImages/fennel-seeds-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -110,7 +110,7 @@ const jsonData = {
         {
             "id": "fenugreek-seeds",
             "title": "Fenugreek Seeds",
-            "bannerImage": "https://spicebasket.com/cdn/shop/products/fenugreek-seeds-uluva-626417.jpg?v=1688466715",
+            "bannerImage": "/assets/allImages/fenugreek-seeds.jpg",
             "block": [
                 {
                     "type": "p",
@@ -118,7 +118,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://shop.organicmandya.com/cdn/shop/products/Methi_Seed_2_869x869.jpg?v=1605758131",
+                    "value": "/assets/allImages/fenugreek-seeds-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -167,7 +167,7 @@ const jsonData = {
         {
             "id": "whole-coriander-seeds",
             "title": "Whole Coriander Seeds",
-            "bannerImage": "https://media.istockphoto.com/id/1225349341/photo/coriander-seeds-in-the-bowl.jpg?s=2048x2048&w=is&k=20&c=RL0apeMA0IBwNeRFfq8KMBXTioTvUWKmelipSqaKPYo=",
+            "bannerImage": "/assets/allImages/whole-coriander-seeds.jpeg",
             "block": [
                 {
                     "type": "p",
@@ -175,7 +175,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://m.media-amazon.com/images/I/51AnWO902zL.jpg",
+                    "value": "/assets/allImages/whole-coriander-seeds-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -224,7 +224,7 @@ const jsonData = {
         {
             "id": "ajwain",
             "title": "Ajwain",
-            "bannerImage": "https://www.chandigarhayurvedcentre.com/wp-content/uploads/2020/07/ajwain-1.jpg",
+            "bannerImage": "/assets/allImages/ajwain.jpg",
             "block": [
                 {
                     "type": "p",
@@ -235,7 +235,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/1300845305/photo/ajwain-thymol-or-carom-seeds.jpg?s=2048x2048&w=is&k=20&c=4iA7YAxQXo753gMNJcOlav4jY3b4eBgoj2yHvhJmO1M=",
+                    "value": "/assets/allImages/ajwain-blog.jpeg",
                 },
                 {
                     "type": "h4",
@@ -291,7 +291,7 @@ const jsonData = {
         {
             "id": "green-mung-beans",
             "title": "Green Mung Beans",
-            "bannerImage": "https://previews.123rf.com/images/posinote/posinote1607/posinote160700926/62678878-green-mung-beans-are-high-protein-low-calorie-food-did-is-packed-with-vitamins-and-minerals.jpg",
+            "bannerImage": "/assets/allImages/green-mung-beans.jpeg",
             "block": [
                 {
                     "type": "p",
@@ -301,7 +301,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/481275428/photo/mung-beans-poured-from-the-sack.jpg?s=2048x2048&w=is&k=20&c=OTy1R1VWWvuDsgkg7o4JIhlNAdviyg1QlI28TWd_ko4=",
+                    "value": "/assets/allImages/green-mung-beans-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -421,7 +421,7 @@ const jsonData = {
         {
             "id": "chickpeas-desi",
             "title": "Chickpeas Desi",
-            "bannerImage": "https://img.livestrong.com/630x/clsd/getty/f8ba80d2e86b4b8da69b201ea9cf0c35.jpg?type=webp",
+            "bannerImage": "/assets/allImages/chickpeas-desi.jpg",
             "block": [
                 {
                     "type": "p",
@@ -429,7 +429,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/1388159718/photo/dry-chickpea-in-bowl-on-white-background.jpg?s=2048x2048&w=is&k=20&c=uQifvEevCJBkjxGhr1giisFRpLg3zIl7y_nxohiGCWQ=",
+                    "value": "/assets/allImages/chickpeas-desi.jpg",
                 },
                 {
                     "type": "h4",
@@ -490,7 +490,7 @@ const jsonData = {
         {
             "id": "green-pearl-millet",
             "title": "Green Pearl Millet ( Bajra )",
-            "bannerImage": "https://cdn.shopify.com/s/files/1/0405/8215/2352/files/BAJRA_480x480.jpg?v=1658378508",
+            "bannerImage": "/assets/allImages/green-pearl-millet.jpg",
             "block": [
                 {
                     "type": "p",
@@ -498,7 +498,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://images.herzindagi.info/image/2022/Dec/bajra-recipes-for-breakfast-weight-loss.jpg",
+                    "value": "/assets/allImages/green-pearl-millet-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -550,7 +550,7 @@ const jsonData = {
         {
             "id": "white-sorghum",
             "title": "White Sorghum",
-            "bannerImage": "https://media.istockphoto.com/id/1416235250/photo/the-sorghum-seeds.jpg?s=2048x2048&w=is&k=20&c=-GQqz_mqlDTFDFTo1D2rbtGHrRBZfzUKtXvLS3gckf4=",
+            "bannerImage": "/assets/allImages/white-sorghum.jpg",
             "block": [
                 {
                     "type": "p",
@@ -558,7 +558,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/477802961/photo/sorghum-grains-on-white-background.jpg?s=2048x2048&w=is&k=20&c=HUKaZaLQ_HmTYR8SvjZVs0s1ES8l_7VNuUNYvlzC3cI=",
+                    "value": "/assets/allImages/white-sorghum-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -609,7 +609,7 @@ const jsonData = {
         {
             "id": "peanuts",
             "title": "Peanuts",
-            "bannerImage": "https://hips.hearstapps.com/hmg-prod/images/peanuts-royalty-free-image-616003590-1532549624.jpg?crop=1.00xw:0.824xh;0,0.0391xh&resize=1200:*",
+            "bannerImage": "/assets/allImages/peanuts.jpeg",
             "block": [
                 {
                     "type": "p",
@@ -617,7 +617,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://sweetsimplevegan.com/wp-content/uploads/2022/02/horizontal_boiled_peanuts_nilagang_mani_sweet_simple_vegan_5.jpg",
+                    "value": "/assets/allImages/peanuts-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -682,7 +682,7 @@ const jsonData = {
         {
             "id": "sesame-seeds",
             "title": "Sesame Seeds",
-            "bannerImage": "https://www.prideofindia.co/cdn/shop/products/shutterstock_164078822_2000x.jpg?v=1571500292",
+            "bannerImage": "/assets/allImages/sesame-seeds.jpeg",
             "block": [
                 {
                     "type": "p",
@@ -690,7 +690,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://cdn.britannica.com/66/212766-050-FF1A49A0/sesame-seeds-wooden-spoon.jpg",
+                    "value": "/assets/allImages/sesame-seeds-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -759,7 +759,7 @@ const jsonData = {
         {
             "id": "black-mustard",
             "title": "Black Mustard",
-            "bannerImage": "https://www.anthonythespicemaker.com/wp-content/uploads/2014/06/Mustard-Seeds-2.1.jpg",
+            "bannerImage": "/assets/allImages/black-mustard.jpg",
             "block": [
                 {
                     "type": "p",
@@ -767,7 +767,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://www.gomothers.in/wp-content/uploads/2020/05/black-mustard-seeds.jpg",
+                    "value": "/assets/allImages/black-mustard-blog.jpeg",
                 },
                 {
                     "type": "h4",
@@ -826,7 +826,7 @@ const jsonData = {
         {
             "id": "yellow-mustard",
             "title": "Yellow Mustard",
-            "bannerImage": "https://media.istockphoto.com/id/1514588500/photo/yellow-mustard-table-top-view-isolated-on-black-background.jpg?s=2048x2048&w=is&k=20&c=lfWZPS2cgFSXebGcfZ0ds3rJ0WU6ILEy8fNUtu8inq0=",
+            "bannerImage": "/assets/allImages/yellow-mustard.jpg",
             "block": [
                 {
                     "type": "p",
@@ -834,7 +834,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/1462180015/photo/yellow-mustard-seeds-isolated-on-white.jpg?s=2048x2048&w=is&k=20&c=q4VfmEsvO4EC_OTbkDJI0qIF-j_qB9cqNJc2NE4MiS0=",
+                    "value": "/assets/allImages/yellow-mustard-blog.jpeg",
                 },
                 {
                     "type": "h4",
@@ -878,7 +878,7 @@ const jsonData = {
         {
             "id": "castor-seeds",
             "title": "Castor Seeds",
-            "bannerImage": "https://media.istockphoto.com/id/638031212/photo/castor-oil-with-dry-and-green-beans.jpg?s=2048x2048&w=is&k=20&c=s3p4FY6hMoD9f9L3RpiWK5AZi1org-tcvY-wMYBR_R8=",
+            "bannerImage": "/assets/allImages/castor-seeds.jpg",
             "block": [
                 {
                     "type": "p",
@@ -894,7 +894,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/179357437/photo/castor-oil-seeds.jpg?s=2048x2048&w=is&k=20&c=MciLApltqNC7fZz0ai12oZ4-OeJOs-P25p-7L-9Ey2A=",
+                    "value": "/assets/allImages/castor-seeds-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -936,7 +936,7 @@ const jsonData = {
         {
             "id": "peanuts-oil",
             "title": "Peanuts Oil",
-            "bannerImage": "https://media.istockphoto.com/id/964876998/photo/peanut-oil-in-glass-bottle-and-peanuts-on-wooden-table.jpg?s=2048x2048&w=is&k=20&c=qlHsq1-VrmLw0MxfiCiNNBrFCDhkvj6D01XFjQ1SSt8=",
+            "bannerImage": "/assets/allImages/peanuts-oil.jpg",
             "block": [
                 {
                     "type": "p",
@@ -944,7 +944,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/1408296553/photo/peanut-oil-in-a-glass-jug-and-raw-peeled-groundnut-in-a-glass-bowl-over-gray-background.jpg?s=2048x2048&w=is&k=20&c=hIiwihYQUPAc03gsTKZ7RPyUNQV20BrN1jeeDbbelUs=",
+                    "value": "/assets/allImages/peanuts-oil-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -986,7 +986,7 @@ const jsonData = {
         {
             "id": "black-mustard-oil",
             "title": "Black Mustard Oil",
-            "bannerImage": "https://media.istockphoto.com/id/950046684/photo/rapeseed-oil-with-seeds-and-flowers.jpg?s=2048x2048&w=is&k=20&c=-GNEhWKxDMxuEsJaLfn9HmCOLufmdnJ5b_t7Y3-ycc0=",
+            "bannerImage": "/assets/allImages/black-mustard-oil.jpg",
             "block": [
                 {
                     "type": "p",
@@ -994,7 +994,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/1311256168/photo/mustard-oil-in-glass-jar-with-black-mustard-seed-flower-and-mustard-cake-isolated-on-white.jpg?s=2048x2048&w=is&k=20&c=j-9Si5ZqRi4ySVZfxpl6o6CLM1qPNNI24ykscRxUP7E=",
+                    "value": "/assets/allImages/black-mustard-oil-blog.jpeg",
                 },
                 {
                     "type": "h4",
@@ -1037,7 +1037,7 @@ const jsonData = {
         {
             "id": "yellow-mustard-oil",
             "title": "Yellow Mustard Oil",
-            "bannerImage": "https://media.istockphoto.com/id/1464858607/photo/mustard-flowers-with-oil.jpg?s=2048x2048&w=is&k=20&c=uU3zkcQdtXGZ17zYclGZXdUwoHpNKPqxy0jPaNi3gdQ=",
+            "bannerImage": "/assets/allImages/yellow-mustard-oil.jpg",
             "block": [
                 {
                     "type": "p",
@@ -1045,7 +1045,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/1467692724/photo/mustard-flowers-with-beans-and-oil.jpg?s=2048x2048&w=is&k=20&c=w-txbJI7zOzpppVfD7ax5MSCtaUrMSkSwQEwOU9RC80=",
+                    "value": "/assets/allImages/yellow-mustard-oil-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -1094,7 +1094,7 @@ const jsonData = {
         {
             "id": "castor-oil",
             "title": "Castor Oil",
-            "bannerImage": "https://media.istockphoto.com/id/542794272/photo/castor-oil-with-beans-on-wooden-surface.jpg?s=2048x2048&w=is&k=20&c=QKnKTGvjvIa4KfSO54tGe06hNbY14_R5KMYeW8n1-KI=",
+            "bannerImage": "/assets/allImages/castor-oil.jpeg",
             "block": [
                 {
                     "type": "p",
@@ -1102,7 +1102,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/1167087437/photo/castor-oil.jpg?s=2048x2048&w=is&k=20&c=jjk2nYrXdffd7KGyg3V-Q3RawLXk14mV6PVZ0wdWkxY=",
+                    "value": "/assets/allImages/castor-oil-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -1151,7 +1151,7 @@ const jsonData = {
         {
             "id": "psyllium-husk",
             "title": "Psyllium Husk",
-            "bannerImage": "https://media.istockphoto.com/id/505534573/photo/psyllium-seeds.jpg?s=2048x2048&w=is&k=20&c=TKgM-X70nWW5repDZmrq3334VKpi6nNlEbVQ98dM4Lc=",
+            "bannerImage": "/assets/allImages/psyllium-husk.jpg",
             "block": [
                 {
                     "type": "p",
@@ -1159,7 +1159,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/1278458502/photo/heap-of-psyllium-husk.jpg?s=2048x2048&w=is&k=20&c=T4a5T_an50qXEPrG12ctvmjK5jFZ0coLpQyBZbljKRs=",
+                    "value": "/assets/allImages/psyllium-husk-blog.jpg",
                 },
                 {
                     "type": "h4",
@@ -1217,59 +1217,6 @@ const urlSearchParams = new URLSearchParams(window.location.search);
 
 // Retrieve the value of the 'param' parameter
 const paramValue = urlSearchParams.get('param');
-
-
-// function createHTMLFromJSON(jsonData, container) {
-//     for (const blog of jsonData.blogs) {
-//         if (blog.id === paramValue) {
-//
-//             const blogDiv = document.createElement("div");
-//             blogDiv.className = "blog";
-//             // Display title
-//             const titleElement = document.createElement("h1");
-//             titleElement.textContent = blog.title;
-//             titleElement.className = "title";
-//             blogDiv.appendChild(titleElement);
-//             if (blog.bannerImage) {
-//                 const bannerImageElement = document.createElement("img");
-//                 bannerImageElement.src = blog.bannerImage;
-//                 bannerImageElement.alt = "Banner Image";
-//                 bannerImageElement.className = "banner-image";
-//                 blogDiv.appendChild(bannerImageElement);
-//             }
-//
-//             for (const block of blog.block) {
-//                 if (block.type === "fullImage" && block.value) {
-//                     const imgElement = document.createElement("img");
-//                     imgElement.src = block.value;
-//                     imgElement.alt = "Image";
-//                     imgElement.className = "full-image";
-//
-//                     blogDiv.appendChild(imgElement);
-//                 } else {
-//                     // Handle other block types (h3, p, ul) here
-//                     const blockElement = document.createElement(block.type);
-//                     blockElement.className = "custom-block"; // Add a class name to other block elements
-//
-//                     if (block.type === "ul" && block.value) {
-//                         for (const item of block.value) {
-//                             const listItem = document.createElement("li");
-//                             listItem.textContent = item;
-//                             listItem.className = "list-item"; // Add a class name to list items
-//                             blockElement.appendChild(listItem);
-//                         }
-//                     } else {
-//                         blockElement.textContent = block.value;
-//                     }
-//
-//                     blogDiv.appendChild(blockElement);
-//                 }
-//             }
-//
-//             container.appendChild(blogDiv);
-//         }
-//     }
-// }
 
 function createHTMLFromJSON(jsonData, container) {
     for (const blog of jsonData.blogs) {
