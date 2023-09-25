@@ -3,7 +3,7 @@ const jsonData = {
         {
             "id": "spices",
             "title": "Spices",
-            "bannerImage": "https://images.pexels.com/photos/4199098/pexels-photo-4199098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "bannerImage": "/assets/allImages/spices.png",
             "block": [
                 {
                     "type": "h3",
@@ -26,7 +26,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+                    "value": "/assets/allImages/spices-blog.jpg",
                 },
                 {
                     "type": "two-grid",
@@ -54,7 +54,7 @@ const jsonData = {
                             "block": [
                                 {
                                     "type": "fullImage",
-                                    "value": "https://media.istockphoto.com/id/924498372/photo/mix-spices-on-round-metal-plate-coriander-seeds-ground-red-pepper-salt-black-pepper-rosemary.jpg?s=2048x2048&w=is&k=20&c=MsLhvVoxXaDtk8s32yOfJYLi7nFENqLR4uARsWGaIPg="
+                                    "value": "/assets/allImages/spices-section-blog.jpg"
                                 },
                             ]
                         }
@@ -65,7 +65,7 @@ const jsonData = {
         {
             "id": "pulses",
             "title": "Pulses",
-            "bannerImage": "https://as2.ftcdn.net/v2/jpg/03/20/86/93/1000_F_320869374_kiH8I8kcpc6UbCbJ0JTnuioiBMeb17ic.jpg",
+            "bannerImage": "/assets/allImages/pulses.jpg",
             "block": [
                 {
                     "type": "h3",
@@ -85,7 +85,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/659524906/photo/composition-with-variety-of-vegetarian-food-ingredients.jpg?s=2048x2048&w=is&k=20&c=zCN_E6jtZLPcoJNYxao0zSbXseFoEtkWbVtxHsx3yCI=",
+                    "value": "/assets/allImages/pulses-blog.jpg",
                 },
                 {
                     "type": "two-grid",
@@ -113,7 +113,7 @@ const jsonData = {
                             "block": [
                                 {
                                     "type": "fullImage",
-                                    "value": "https://media.istockphoto.com/id/1372196138/photo/assorted-legumes-in-burlap-sacks-in-a-row-as-a-full-frame-background.jpg?s=2048x2048&w=is&k=20&c=-OmcroCGKTqgRUsz5ijq9QuF2sFCYMVYy6yXAngayAM="
+                                    "value": "/assets/allImages/pulses-blog.jpg"
                                 }
                             ]
                         }
@@ -124,7 +124,7 @@ const jsonData = {
         {
             "id": "oil-seeds",
             "title": "Oil Seeds",
-            "bannerImage": "https://www.thedollarbusiness.com/assets/articles/2015/10/shutterstock_93239791_650.jpg",
+            "bannerImage": "/assets/allImages/oil-seeds.jpg",
             "block": [
                 {
                     "type": "h3",
@@ -145,7 +145,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://media.istockphoto.com/id/595334238/photo/natural-peanut-oil-in-a-glass-jar-close-up-horizontal.jpg?s=2048x2048&w=is&k=20&c=3PsJd6vRB2yJiTaGG17h8LCk3cQbO7-2WqfosGOw0ok=",
+                    "value": "/assets/allImages/oil-seeds-section-blog.jpg",
                 },
                 {
                     "type": "two-grid",
@@ -166,7 +166,7 @@ const jsonData = {
                             "block": [
                                 {
                                     "type": "fullImage",
-                                    "value": "https://media.istockphoto.com/id/519829708/photo/castor-beans-and-oil.jpg?s=2048x2048&w=is&k=20&c=q9X4POosTA0aoxxYCY3mCQWGVaXIBOnZVGjEWQD24W0="
+                                    "value": "/assets/allImages/oil-seeds.png"
                                 }
                             ]
                         }

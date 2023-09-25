@@ -35,7 +35,7 @@ const productJson = {
         {
             "id": "moth-beans",
             "title": "Moth Beans",
-            "bannerImage": "https://as2.ftcdn.net/v2/jpg/00/57/52/83/1000_F_57528313_QLx4SRVHbK6zOrWJV0KnVP5HDZo3G7AW.jpg",
+            "bannerImage": "/assets/allImages/moth-beans.jpg",
             "p": "Moth beans are small legumes popular in South Asian cuisine. They are protein-rich and known for their nutty flavor. Their ability to grow in arid conditions makes them vital in regions with limited water resources.",
         }, {
             "id": "chickpeas-desi",

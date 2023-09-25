@@ -355,7 +355,7 @@ const jsonData = {
         {
             "id": "moth-beans",
             "title": "Moth Beans",
-            "bannerImage": "https://i0.wp.com/rationwalla.com/wp-content/uploads/2021/05/Moth-Beans-2.jpg?fit=1280%2C1134&ssl=1",
+            "bannerImage": "/assets/allImages/moth-beans.jpg",
             "block": [
                 {
                     "type": "p",
@@ -370,7 +370,7 @@ const jsonData = {
                 },
                 {
                     "type": "fullImage",
-                    "value": "https://nishamadhulika.com/imgpst/featured/moth-beans.jpg",
+                    "value": "/assets/allImages/moth-beans-blog.jpg",
                 },
                 {
                     "type": "h4",
