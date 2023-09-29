@@ -11,6 +11,16 @@
     border-bottom: 1px solid #d3d3d3;
     padding-bottom: 15px;
 }
+.header .header-menu {
+    height: 40px
+}
+.header .header-menu .nav .nav-item .nav-link {
+    line-height: 40px;
+}
+.header .header-menu .nav .nav-item:hover .nav-link:before {
+    bottom: 3px;
+}
+
 .header-logo{
     position: relative;
     bottom: 15px;
