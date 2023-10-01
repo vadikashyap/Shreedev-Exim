@@ -87,6 +87,18 @@ body {
   font-size: 12px;
   word-spacing: -5px;
 }
+.enquiry-wrapper:hover{
+  background: #0291c5;
+  color: #fff;
+}
+.submit-btn{
+  background: #00a1e2;
+  color: #fff;
+}
+.submit-btn:hover{
+  background: #00739c;
+  color: #fff;
+}
 
 .VIpgJd-ZVi9od-l4eHX-hSRGPd {
   display: none;
