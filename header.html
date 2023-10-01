@@ -44,9 +44,83 @@
     </button>
   </div>
 
-  <div class="enquiry-wrapper">
-    <i class="far fa-file-alt" style="font-size: 16px"></i>
+  <div class="enquiry-wrapper  btn btn-primary btn-popup" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+    <i class="far fa-file-alt" style="font-size: 16px"   ></i>
     enquire now
   </div>
   <!-- end container -->
+</div>
+<!-- Modal -->
+<div class="modal fade" id="staticBackdrop"  data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+     aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Enquire now</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form method="post" id="enquiryForm" onsubmit="submitForm(); return false;">
+                    <div class="row gx-3 gy-0">
+                        <div class="col-12 col-sm-6">
+                            <input
+                                    type="text"
+                                    id="enquire_name"
+                                    name="enquire_name"
+                                    placeholder="Name"
+                                    required
+                            />
+                        </div>
+                        <div class="col-12 col-sm-6">
+                            <input
+                                    type="text"
+                                    id="enquire_companyName"
+                                    name="enquire_companyName"
+                                    placeholder="Company Name"
+                                    required
+                            />
+                        </div>
+                    </div><div class="row gx-3 gy-0">
+                    <div class="col-12 col-sm-6">
+                        <input
+                                type="number"
+                                id="enquire_contact_no"
+                                name="enquire_contact_no"
+                                placeholder="Contact No."
+                                required
+                        />
+                    </div>
+                    <div class="col-12 col-sm-6">
+                        <input
+                                type="email"
+                                id="enquire_email"
+                                name="enquire_email"
+                                placeholder="E-Mail"
+                                required
+                        />
+                    </div>
+                </div>
+                    <select class="form-select" aria-label="Default select example" id="countrySelect">
+                        <option value="0">Select Country</option>
+                        <option value="India">India</option>
+                        <option value="USA">United States</option>
+                        <option value="Canada">Canada</option>
+                        <option value="UK">United Kingdom</option>
+                        <option value="Australia">Australia</option>
+                    </select>
+                    <textarea
+                            name="message"
+                            id="enquire_message"
+                            placeholder="Message"
+                    ></textarea>
+                    <button
+                            class="button button-lg button-rounded button-turquiose"
+                            type="submit"
+                    >
+                        Send Message
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
 </div>
