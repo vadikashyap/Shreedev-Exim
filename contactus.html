@@ -1,153 +1,148 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
+<head>
+    <meta charset="utf-8"/>
     <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
     <title>Shreedev Exim</title>
     <!-- Favicon -->
-    <link href="assets/images/logo.png" rel="shortcut icon" />
+    <link href="assets/images/logo.png" rel="shortcut icon"/>
     <!-- CSS -->
     <link
-      href="./assets/plugins/bootstrap/bootstrap.min.css"
-      rel="stylesheet"
+            href="./assets/plugins/bootstrap/bootstrap.min.css"
+            rel="stylesheet"
     />
     <link
-      href="./assets/plugins/owl-carousel/owl.carousel.min.css"
-      rel="stylesheet"
+            href="./assets/plugins/owl-carousel/owl.carousel.min.css"
+            rel="stylesheet"
     />
     <link
-      href="./assets/plugins/owl-carousel/owl.theme.default.min.css"
-      rel="stylesheet"
+            href="./assets/plugins/owl-carousel/owl.theme.default.min.css"
+            rel="stylesheet"
     />
     <link
-      href="./assets/plugins/magnific-popup/magnific-popup.min.css"
-      rel="stylesheet"
+            href="./assets/plugins/magnific-popup/magnific-popup.min.css"
+            rel="stylesheet"
     />
-    <link href="./assets/plugins/sal/sal.min.css" rel="stylesheet" />
+    <link href="./assets/plugins/sal/sal.min.css" rel="stylesheet"/>
     <link
-      href="./assets/plugins/swiper/swiper-bundle.min.css"
-      rel="stylesheet"
+            href="./assets/plugins/swiper/swiper-bundle.min.css"
+            rel="stylesheet"
     />
-    <link href="./assets/css/theme.min.css" rel="stylesheet" />
+    <link href="./assets/css/theme.min.css" rel="stylesheet"/>
     <!-- Fonts/Icons -->
     <link
-      href="./assets/plugins/bootstrap-icons/bootstrap-icons.css"
-      rel="stylesheet"
+            href="./assets/plugins/bootstrap-icons/bootstrap-icons.css"
+            rel="stylesheet"
     />
-    <link href="./assets/plugins/font-awesome/css/all.css" rel="stylesheet" />
-  </head>
-  <body data-preloader="1">
-    <!-- Header -->
-    <header id="header"></header>
-    <!-- end Header -->
+    <link href="./assets/plugins/font-awesome/css/all.css" rel="stylesheet"/>
+</head>
+<body data-preloader="1">
+<!-- Header -->
+<header id="header"></header>
+<!-- end Header -->
 
-    <div
-      class="section-xl bg-image parallax section-divider-curve-bottom"
-      data-bg-src="/assets/allImages/contact-us.png"
-    >
-      <div class="bg-dark-06">
+<div
+        class="section-xl bg-image parallax section-divider-curve-bottom"
+        data-bg-src="/assets/allImages/contact-us.png"
+>
+    <div class="bg-dark-06">
         <div class="container text-center">
-          <h1 class="fw-normal m-0">Contact Us</h1>
+            <h1 class="fw-normal m-0">Contact Us</h1>
         </div>
         <!-- end container -->
-      </div>
     </div>
+</div>
 
-    <div class="section-lg">
-      <div class="container">
+<div class="section-lg">
+    <div class="container">
         <div class="mb-5">
-          <div class="row text-center">
-            <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-              <h2 class="fw-light">Say Hello!</h2>
+            <div class="row text-center">
+                <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+                    <h2 class="fw-light">Say Hello!</h2>
+                </div>
             </div>
-          </div>
         </div>
         <div class="row g-4">
-          <div
-            class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 text-center"
-          >
-            <!-- Contact Form -->
-            <div class="contact-form">
-              <form method="post" id="contactForm">
-                <div class="row gx-3 gy-0">
-                  <div class="col-12 col-sm-6">
-                    <input
-                      type="text"
-                      id="name"
-                      name="name"
-                      placeholder="Name"
-                      required
-                    />
-                  </div>
-                  <div class="col-12 col-sm-6">
-                    <input
-                      type="email"
-                      id="email"
-                      name="email"
-                      placeholder="E-Mail"
-                      required
-                    />
-                  </div>
+            <div
+                    class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 text-center"
+            >
+                <!-- Contact Form -->
+                <div class="contact-form">
+                    <form method="post" id="contactForm">
+                        <div class="row gx-3 gy-0">
+                            <div class="col-12 col-sm-6">
+                                <input
+                                        type="text"
+                                        id="name"
+                                        name="name"
+                                        placeholder="Name"
+                                        required
+                                />
+                            </div>
+                            <div class="col-12 col-sm-6">
+                                <input
+                                        type="email"
+                                        id="email"
+                                        name="email"
+                                        placeholder="E-Mail"
+                                        required
+                                />
+                            </div>
+                        </div>
+                        <input
+                                type="text"
+                                id="subject"
+                                name="subject"
+                                placeholder="Subject"
+                                required
+                        />
+                        <textarea
+                                name="message"
+                                id="message"
+                                placeholder="Message"
+                        ></textarea>
+                        <button
+                                class="button button-lg button-rounded button-turquiose"
+                                type="submit"
+                        >
+                            Send Message
+                        </button>
+                    </form>
+                    <!-- Submit result -->
+                    <div class="submit-result">
+                        <span id="success">Thank you! Your Message has been sent.</span>
+                        <span id="error">Something went wrong, Please try again!</span>
+                    </div>
                 </div>
-                <input
-                  type="text"
-                  id="subject"
-                  name="subject"
-                  placeholder="Subject"
-                  required
-                />
-                <textarea
-                  name="message"
-                  id="message"
-                  placeholder="Message"
-                ></textarea>
-                <button
-                  class="button button-lg button-rounded button-turquiose"
-                  type="submit"
-                >
-                  Send Message
-                </button>
-              </form>
-              <!-- Submit result -->
-              <div class="submit-result">
-                <span id="success">Thank you! Your Message has been sent.</span>
-                <span id="error">Something went wrong, Please try again!</span>
-              </div>
+                <!-- end contact-form -->
             </div>
-            <!-- end contact-form -->
-          </div>
         </div>
         <!-- end row -->
-      </div>
-      <!-- end container -->
     </div>
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14734785.242063815!2d77.30331060000005!3d25.626185484274018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!5e0!3m2!1sen!2sin!4v1695053887829!5m2!1sen!2sin"
-      width="100%"
-      height="450"
-      style="border: 0"
-      allowfullscreen=""
-      loading="lazy"
-      referrerpolicy="no-referrer-when-downgrade"
-    ></iframe>
+    <!-- end container -->
+</div>
+<iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.0446412370043!2d72.1375099!3d23.8525485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395c874b2fbc2725%3A0x542ba07d7e9d7650!2sF-126%2C%20Tirupati%20Bazar%2C%20Sidhpur%20Cross%20Road%2C%20Patan.%20Gujarat.%20India.384265!5e0!3m2!1sen!2sin!4v1697124816969!5m2!1sen!2sin"
+        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-    <footer id="footer"></footer>
+<footer id="footer"></footer>
 
-    <!-- ***** JAVASCRIPTS ***** -->
-    <script src="./assets/plugins/jquery.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBi4SV0ZRVGoIDH2E00YtJ8Gvg67eaPG5A"></script>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver"></script>
-    <script src="./assets/plugins/plugins.js"></script>
-    <script src="./assets/js/functions.min.js"></script>
-    <script src="./assets/js/headerFooter.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
+<!-- ***** JAVASCRIPTS ***** -->
+<script src="./assets/plugins/jquery.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBi4SV0ZRVGoIDH2E00YtJ8Gvg67eaPG5A"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver"></script>
+<script src="./assets/plugins/plugins.js"></script>
+<script src="./assets/js/functions.min.js"></script>
+<script src="./assets/js/headerFooter.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
 
-    <script src="contactus.js"></script>
-  </body>
+<script src="contactus.js"></script>
+</body>
 </html>
